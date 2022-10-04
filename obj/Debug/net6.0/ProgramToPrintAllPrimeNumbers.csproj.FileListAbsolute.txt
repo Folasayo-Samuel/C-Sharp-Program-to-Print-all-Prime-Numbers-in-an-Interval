@@ -1,0 +1,15 @@
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/bin/Debug/net6.0/ProgramToPrintAllPrimeNumbers
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/bin/Debug/net6.0/ProgramToPrintAllPrimeNumbers.deps.json
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/bin/Debug/net6.0/ProgramToPrintAllPrimeNumbers.runtimeconfig.json
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/bin/Debug/net6.0/ProgramToPrintAllPrimeNumbers.dll
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/bin/Debug/net6.0/ProgramToPrintAllPrimeNumbers.pdb
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ProgramToPrintAllPrimeNumbers.csproj.AssemblyReference.cache
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ProgramToPrintAllPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ProgramToPrintAllPrimeNumbers.AssemblyInfoInputs.cache
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ProgramToPrintAllPrimeNumbers.AssemblyInfo.cs
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ProgramToPrintAllPrimeNumbers.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ProgramToPrintAllPrimeNumbers.dll
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/refint/ProgramToPrintAllPrimeNumbers.dll
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ProgramToPrintAllPrimeNumbers.pdb
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ProgramToPrintAllPrimeNumbers.genruntimeconfig.cache
+/home/saint/Desktop/ProgramToPrintAllPrimeNumbers/obj/Debug/net6.0/ref/ProgramToPrintAllPrimeNumbers.dll
